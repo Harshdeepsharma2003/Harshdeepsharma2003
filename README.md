@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-My name is Harshdeep Sharma and I'm currently pursuing a Bachelor of Technology in Information Technology with a CGPA of 8.01 (Aug 2021 - May 2025).<br>Completed CBSE Class XII with 80.6% and Class X with 92.0%.<-I am currently working on developing a user-centric microservices architecture that focuses on enhancing system performance and user experience.<br>-Feel free to ask me about my recent projects, particularly my experience with microservices and RESTful APIs, or my approach to problem-solving in software development.<br>-A fun fact about me is that I actively engage in community service and enjoy volunteering, which allows me to give back to the community while learning new skills and meeting diverse people.<br><br>
+My name is Harshdeep Sharma and I'm currently pursuing a Bachelor of Technology in Information Technology with a CGPA of 8.01 (Aug 2021 - May 2025).Completed CBSE Class XII with 80.6% and Class X with 92.0%.<-I am currently working on developing a user-centric microservices architecture that focuses on enhancing system performance and user experience.<br>-Feel free to ask me about my recent projects, particularly my experience with microservices and RESTful APIs, or my approach to problem-solving in software development.<br>-A fun fact about me is that I actively engage in community service and enjoy volunteering, which allows me to give back to the community while learning new skills and meeting diverse people.<br><br>
 
 
 ## 🌐 Socials:
